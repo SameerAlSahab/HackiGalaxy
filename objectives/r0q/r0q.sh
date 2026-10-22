@@ -1,0 +1,2 @@
+DEVICE_NAME=r0q; MARKETING="Galaxy S22 (SM-S901x)"; PLATFORM=sm8450
+FB_W=1080; FB_H=2340; FB_BASE=0xb8000000UL   # VERIFY (Samsung splash/fb region)

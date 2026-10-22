@@ -1,0 +1,4 @@
+out/
+shim/device.h
+*.ipsw
+*.dmg
